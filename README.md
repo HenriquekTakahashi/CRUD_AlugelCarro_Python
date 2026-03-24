@@ -26,3 +26,13 @@ Aplicar conceitos fundamentais de programação, incluindo:
 - Python
 
 ---
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+git clone https://github.com/HenriquekTakahashi/CRUD_AlugelCarro_Python.git
+2. Acesse a pasta:
+cd CRUD_AlugelCarro_Python
+3. Execute o Programa:
+Login.py
+---
